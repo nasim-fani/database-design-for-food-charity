@@ -1,0 +1,13 @@
+.error{
+    color: #FF0000;
+}
+body { 
+    font-family:Verdana;
+    color:maroon;
+    background-color:aliceblue; 
+       
+}
+input { 
+    font-family:Verdana; 
+    width:"1in"; 
+}
